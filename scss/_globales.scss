@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%; /* 1 rem = 10 px */
+  height: 100%;
+}
+body {
+  font-family:"roboto" sans serif;
+  font-size: 1.2rem;
+  min-height: 100%;
+  // background-color: #e1e1e1;
+}
+
+//               MOBILE            FIRST          //
+.grid__container {
+  display: grid;
+  gap: 1rem;
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
+  grid-template-rows: 60px auto 60px;
+}
+
+//                        TABLET       //
+@media (min-width: 600px) {
+  .grid__container {
+    grid-template:
+      "header" 80px
+      "main" auto
+      "footer" 100px;
+  }
+}
+
+//                         DESKSTOP                       //
+@media (min-width: 900px) {
+  .grid__container {
+    grid-template:
+      "header" 100px
+      "main" auto
+      "footer" 50px;
+  }
+}

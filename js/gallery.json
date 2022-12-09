@@ -1,0 +1,214 @@
+[
+    {
+        "id": 1,
+        "name": "Mandoble",
+        "image": "/img/Mandoble.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Brigantine",
+        "image": "/img/brigantina.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Trebuchet",
+        "description": "Siege gun",
+        "image": "/img/trebuchet.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ram",
+        "image": " /img/ram.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Long Bow",
+        "image": "/img/longBow.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Butcher Knife",
+        "image": "/img/butcherKnife.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Arming Sword",
+        "image": "/img/armingSword.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Cannon gun",
+        "image": "/img/cannonGun.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Crossbow",
+        "image": "/img/crossbow.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Shield",
+        "image": "/img/shield.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Arcabuz",
+        "image": "/img/arcabuz.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Alabard",
+        "image": "/img/alabard.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Musket",
+        "image": "/img/musket.jpg"
+
+    },
+    {
+        "id": 14,
+        "name": "Winchester rifle",
+        "image": "/img/winchester.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Gewehr 98",
+        "image": "/img/gewehr98.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Lee Enfield",
+        "image": "/img/enfield.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Arisaka type 99",
+        "image": "/img/arisaka.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Carcano m91",
+        "image": "/img/carcano.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Sprinfield",
+        "image": "/img/springfield.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Kark 98k",
+        "image": "/img/k98.jpg"
+    },
+    {
+        "id": 21,
+        "name": "MP-18",
+        "image": "/img/mp18.jpg"
+    },
+    {
+        "id": 22,
+        "name": "BAR",
+        "image": "/img/bar.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Mosin Nagant",
+        "image": "/img/mosin.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Mauser 1909 modelo Argentino",
+        "image": "/img/mauser.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Thompson M1",
+        "image": "/img/thompson.jpg"
+    },
+    {
+        "id": 26,
+        "name": "STG-44",
+        "image": "/img/stg44.jpg"
+    },
+    {
+        "id": 27,
+        "name": "PPSH-41",
+        "image": "/img/ppsh41.jpg"
+    },
+    {
+        "id": 28,
+        "name": "AK-47",
+        "image": "/img/ak47.jpg"
+    },
+    {
+        "id": 29,
+        "name": "M-16a2",
+        "image": "/img/m16.jpg"
+    },
+    {
+        "id": 30,
+        "name": "M4 Mk18",
+        "image": "/img/m4.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Gewehr H&K 36",
+        "image": "/img/g36.jpg"
+    },
+    {
+        "id": 32,
+        "name": "FAL",
+        "image": "/img/fal.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Mercedes-Benz Unimog",
+        "image": "/img/unimog.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Kubelwagen",
+        "image": "/img/kubelwagen.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Hetzer",
+        "image": "/img/hetzer.jpg"
+    },
+    {
+        "id": 36,
+        "name": "M4a1 Sherman",
+        "image": "/img/sherman.jpg"
+    },
+    {
+        "id": 37,
+        "name": "M4A3E8 Sherman Jumbo 76mm",
+        "image": "/img/jumbo.jpg"
+    },
+    {
+        "id": 38,
+        "name": "Pz. Kpfw V Panther",
+        "image": "/img/panther.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Pz.Kpfw VI Tiger",
+        "image": "/img/tiger.jpg"
+    },
+    {
+        "id": 40,
+        "name": "Pz.Kpfw VI Tiger 2 \"Königstiger\" ",
+        "image": "/img/konigstiger.jpg"
+    },
+    {
+        "id": 41,
+        "name": "T-34-85 ",
+        "image": "/img/t34.jpg"
+    },
+    {
+        "id": 42,
+        "name": "T-62 ",
+        "image": "/img/t62.jpg"
+    }
+]
